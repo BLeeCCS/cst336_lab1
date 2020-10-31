@@ -38,5 +38,11 @@
             </div>
         </main>
     </nav>
+    <footer>
+        <hr>
+        CST336 Internet Programming. 2020&copy; Lee <br />
+        <strong>Disclaimer:</strong> The information in this webpage is gictitious. <br />
+        It is used for academic purposes only.
+    </footer>
 </body>
 </html>
