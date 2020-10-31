@@ -26,3 +26,8 @@ main {
     display: flex;
     justify-content: center;
 }
+
+footer {
+    color: black;
+    font-size: 1em;
+}
