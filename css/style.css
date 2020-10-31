@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: gray;
+    background-color: #FFEBCD;
+    color: #D2691E;
 }
 
 header, main, nav, footer {
@@ -12,11 +12,17 @@ nav a {
     padding-bottom:4px;
     font-size: 1.8em;
     text-decoration: none;
-    color: white;
+    color: #FF7F50;
 }
 
 nav a:hover {
-    border-bottom:2px orange solid;
+    border-bottom:2px #7FFF00 solid;
     font-size: 2em;
     transition: .9s;
+    color: #7FFF00;
+}
+
+main {
+    display: flex;
+    justify-content: center;
 }
