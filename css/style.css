@@ -70,8 +70,5 @@ h1 {
 }
 
 .selected {
-    border-bottom:2px #7FFF00 solid;
-    font-size: 2em;
-    transition: .9s;
-    color: #7FFF00;
+    color: #556B2F;
 }
