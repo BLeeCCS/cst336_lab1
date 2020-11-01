@@ -68,3 +68,10 @@ h1 {
     font-size: 4em;
     margin-bottom: 0px;
 }
+
+.selected {
+    border-bottom:2px #7FFF00 solid;
+    font-size: 2em;
+    transition: .9s;
+    color: #7FFF00;
+}
