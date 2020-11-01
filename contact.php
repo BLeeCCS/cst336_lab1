@@ -32,7 +32,7 @@
         <strong>Disclaimer:</strong> The information in this webpage is gictitious. <br />
         It is used for academic purposes only.
         <figure>
-            <img src="img/CSUMB_logo.png"></img>
+            <img src="img/CSUMB_logo.png" width=250px height=100px></img>
         </figure>
     </footer>
 </body>

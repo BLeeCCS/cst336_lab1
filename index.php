@@ -23,7 +23,7 @@
         <main>
             
             <figure>
-                <img src="img/Brandon_Lee.PNG" alt="Picture of Brandon Lee"></img>
+                <img src="img/Brandon_Lee.PNG" alt="Picture of Brandon Lee" width=250px height=250px></img>
             </figure>
             
             <div>
@@ -42,10 +42,10 @@
     <footer>
         <hr>
         CST336 Internet Programming. 2020&copy; Lee <br />
-        <strong>Disclaimer:</strong> The information in this webpage is gictitious. <br />
+        <strong>Disclaimer:</strong> The information in this webpage is fictitious. <br />
         It is used for academic purposes only.
         <figure>
-            <img src="img/CSUMB_logo.png"></img>
+            <img src="img/CSUMB_logo.png" width=250px height=100px></img>
         </figure>
     </footer>
 </body>
