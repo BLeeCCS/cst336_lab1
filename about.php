@@ -40,13 +40,16 @@
                         <td>1</td>
                     </tr>
                 </table>
+                
+                <br /><br />
+                
+                <ul>
+                    <li><span class="hobby"> Video games</span>: I enjoy watching Esport such as League of Legends</li>
+                    <li><span class="hobby">Sport</span>: Recently I started attending MMA class</li>
+                    <li><span class="hobby">Music</span>: I like to listen to pop</li>
+                    <li><span class="hobby">Programming</span>: web programming is fun!</li>
+                </ul>
             </div>
-            <ul>
-                <li><span class="hobby"> Video games</span>: I enjoy watching Esport such as League of Legends</li>
-                <li><span class="hobby">Sport</span>: Recently I started attending MMA class</li>
-                <li><span class="hobby">Music</span>: I like to listen to pop</li>
-                <li><span class="hobby">Programming</span>: web programming is fun!</li>
-            </ul>
         </main>
     </nav>
     <footer>
