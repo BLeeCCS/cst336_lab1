@@ -68,3 +68,10 @@ h1 {
     font-size: 4em;
     margin-bottom: 0px;
 }
+
+#logo {
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
